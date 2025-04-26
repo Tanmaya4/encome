@@ -1,14 +1,10 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "headline": "Linux Powers NASA's Mars Helicopter with Open Source Contributions",
+  "date": "2021-05-03",
+  "countries": [
+    "Mars",
+    "USA",
+    "London"
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "category": "Technology"
 }
